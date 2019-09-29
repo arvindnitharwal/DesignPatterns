@@ -1,7 +1,7 @@
 # DPatterns
 Good Code By Examples
-## Problem Statement for Streatgy Pattern
-### You have to return the carType based on filter, so basically client required different types of cars 
+** Problem Statement for Strategy Pattern **
+You have to return the carType based on filter, so basically client required different types of cars 
 based on filter.
 ```
 Types of Filters:
