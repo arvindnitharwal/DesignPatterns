@@ -1,5 +1,5 @@
-# DPatterns
-Good Code By Examples
+# Design Patterns
+DPatterns By Examples
 
 ##### Problem Statement for Strategy Pattern 
 ### You have to return the carType based on filter, so basically client required different types of cars 
