@@ -20,3 +20,7 @@ Types of Filters:
 3.TransmissionTypeCars
 4.BudgetTypeCars
 ```
+##### Problem Statement for Visitor Pattern
+```
+suppose we have 3 classes 1.News 2.Expertreview 3.RoadTest these classes have different-2 interfaces now product want to show seo text for each class.
+```
