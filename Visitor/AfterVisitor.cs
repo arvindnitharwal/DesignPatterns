@@ -80,5 +80,11 @@ public namespace AfterVisitor
             return "RoadTest";
         }
     }
-
+    //call this ContentVisitor via original classes
+    public class client 
+    {
+        //list of all objects
+        List<object> list =new List{INews,IExpertReview,IRoadTest};
+        //call visitor
+    }
 }
