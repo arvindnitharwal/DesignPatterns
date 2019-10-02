@@ -22,5 +22,11 @@ Types of Filters:
 ```
 ##### Problem Statement for Visitor Pattern
 ```
-suppose we have 3 classes 1.News 2.Expertreview 3.RoadTest these classes have different-2 interfaces now product want to show seo text for each class.
+suppose we have 3 classes 1.News 2.Expertreview 3.RoadTest these classes have different-2 interfaces 
+now product want to show seo text for each class.
+```
+##### Problem Statement for Observer Pattern
+```
+we have 4 platforms(Mobile,Desktop,IOS,Android).now Product want to send  notifications to each platforms
+based on some condition like she can send to all combinations of platforms.
 ```
