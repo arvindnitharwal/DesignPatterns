@@ -29,3 +29,9 @@ now product want to show seo text for each class.
 we have 4 platforms(Mobile,Desktop,IOS,Android).now Product want to send  notifications to each platforms
 based on some condition like she can send to all combinations of platforms.
 ```
+##### Problem Statement for Mediator Pattern
+```
+Suppose you have 3 pages Home ,CarMake,CarModel and we want to show Top Articles.
+on Home page we will show only Top News,Videos.
+on CarMake Page we will show Top News,Expert Reviews,Reviews,Images and on CarModel Page we will show News,Videos,Images.
+```
